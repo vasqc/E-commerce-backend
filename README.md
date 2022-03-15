@@ -8,10 +8,11 @@ This week we were given starter code and tasked with developing the back end of 
 Walkthrough Video link:
 
 
+
 Installation:
 You must have MySQL2, Sequelize, and the dotenv package installed to get the app up and running.
 
 First, clone the repository and then run 'npm i' from the command line to install all dependencies. Then, start your server and test out your routes in Insomnia.
 
 
-Link to GitHub:
+Link to GitHub: https://github.com/vasqc/E-commerce-backend
