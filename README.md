@@ -7,6 +7,7 @@ This week we were given starter code and tasked with developing the back end of 
 
 Walkthrough Video link:
 
+https://drive.google.com/file/d/1ZqkRt99FiLjY_FsbPQUPKZ-tfhGf3r7E/view
 
 
 Installation:
