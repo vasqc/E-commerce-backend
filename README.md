@@ -1,7 +1,9 @@
 # E-commerce-backend
 
 
-This week we were given starter code and tasked with developing the back end of the application through the use of MySQL2, Sequelize, and the dotenv package. We first needed to add our database name, MySQL username, and MySQL password to an environment variable file so that we are able to connect to a database using Sequelize. Then, we needed to run the schema.sql and seeds.sql files in order to create a development database that is seeded with test data. Once the user invokes the application, the server should be started and the Sequelize models are synced to the MySQL database. Then, the user should be able to use insomnia to successfully test out all of the routes that we needed to construct, including GET, POST, PUT, and DELETE routes for the categories, products, and tags models. The data that is returned to the user by Insomnia should be displayed in formatted JSON.
+For this Challenge, we were given some starte code. MySQL, Sequalize and the >ENV package are the main components for the construction of the E-Commerce back-end.
+Once the neccessary information was provided, you will need to run schema.sql and seed.sql in order to create a database that is filled with the data.
+Insomnia is used to make sure all given endpoints are in fully functional operation. 
 
 
 
