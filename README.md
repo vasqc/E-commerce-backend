@@ -1,7 +1,7 @@
 # E-commerce-backend
 
 
-For this Challenge, we were given some starte code. MySQL, Sequalize and the >ENV package are the main components for the construction of the E-Commerce back-end.
+For this Challenge, we were given some starter code. MySQL, Sequalize and the .ENV package are the main components for the construction of the E-Commerce back-end.
 Once the neccessary information was provided, you will need to run schema.sql and seed.sql in order to create a database that is filled with the data.
 Insomnia is used to make sure all given endpoints are in fully functional operation. 
 
